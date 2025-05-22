@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for Enterprise Empire', 'description': 'Primary container for Enterprise Empire implementation: A turn-based business simulation game that immerses players in the role of entrepreneurs and company managers. Players strategically navigate complex business landscapes, making critical decisions in finance, marketing, operations, and product development to grow their virtual business empire.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
